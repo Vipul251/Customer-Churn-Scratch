@@ -1,4 +1,12 @@
-keep your customers
+# Customer Churn Prediction App
+
+This is a Streamlit web application for predicting customer churn in a telecom company.
+
+## Overview
+
+This application allows users to input various customer attributes and receive a prediction of whether the customer is likely to churn. It provides both online prediction for individual customers and batch prediction for a dataset of customers.
+
+Keep your customers
 #spot behavioural patterns in historical customer data
 Train a ml model using classifciation algorithms to predict customer risk of churning
 Applying ml to customer data help companies developed focused customer retention programs
