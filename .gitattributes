@@ -1,2 +1,26 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Python
+*.pyc
+__pycache__/
+venv/
+*.pyc
+*.pyo
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Docker
+.dockerignore
+.docker/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Environment configuration
+.env
+.env.local
+.env.*.local
